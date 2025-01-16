@@ -1,4 +1,5 @@
-## Hi there 👋
+# ![https://www.elephantdesign.es](https://avatars.githubusercontent.com/u/190400074?v=4&size=64) Hey, soy Kova
+### Freelance Web and Graphic Designer
 
 <!--
 **CovaJpg/CovaJpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
